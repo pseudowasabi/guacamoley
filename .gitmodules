@@ -1,0 +1,6 @@
+[submodule "guacamoley-frontend"]
+	path = guacamoley-frontend
+	url = https://github.com/pseudowasabi/guacamoley-frontend.git
+[submodule "guacamoley-backend"]
+	path = guacamoley-backend
+	url = https://github.com/pseudowasabi/guacamoley-backend.git
